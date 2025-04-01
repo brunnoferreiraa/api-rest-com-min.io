@@ -159,7 +159,4 @@ Authorization: Bearer {TOKEN}
 
 ---
 
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-lo!
 
