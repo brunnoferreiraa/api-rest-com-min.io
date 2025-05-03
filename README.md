@@ -38,12 +38,6 @@ cd nome-do-projeto
 composer install
 ```
 
-Copie o arquivo **.env.example** e configure as variáveis de ambiente:
-
-```bash
-cp .env.example .env
-```
-
 Gere a chave da aplicação:
 
 ```bash
