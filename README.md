@@ -33,8 +33,8 @@ Antes de iniciar, certifique-se de ter os seguintes itens instalados:
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/seu-repositorio.git
-cd nome-do-projeto
+git clone https://github.com/api-rest-com-min.io.git
+cd api-rest-com-min.io
 composer install
 ```
 
